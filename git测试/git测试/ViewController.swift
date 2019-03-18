@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor.red
         
         // 远程服务器正在b管理本代码！！！
+        /// 完整代码！！！
+        let c = 100
     }
+
+
 }
 
