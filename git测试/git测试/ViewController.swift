@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         //仅仅是一个测试
         // 设置背景颜色
         self.view.backgroundColor = UIColor.red
+        
+        // 远程服务器正在b管理本代码！！！
     }
 }
 
