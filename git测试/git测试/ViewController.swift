@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //仅仅是一个测试
+        // 设置背景颜色
+        self.view.backgroundColor = UIColor.red
     }
 }
 
